@@ -6,6 +6,6 @@ The aim of this project to explore the linguistically unique nature of rap lyric
 
 The web app then allows users to input their own lyrics or strings of text and the preferred classification model, then outputs the rap artist with the closest matching lyrics features.
 
-A detailed summary of the project, methodologies, evaluation, and results can be found in the PDF report.
+A detailed summary of the project, methodologies, evaluation, and results can be found in the [PDF report](https://github.com/tansawit/rap-artist-match/blob/master/rapper-lyrics-matching-report.pdf).
 
 **Contributors:** Thomas Horak, Brian Guo, Krishan Amin, Sawit Trisirisatayawong, Vraj Desai
