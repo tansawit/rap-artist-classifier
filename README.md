@@ -1,4 +1,4 @@
-# Rap Artist Lyrics Matcher
+# Rap Artist Lyrics Classifier
 
 > Done as part of the final project for the University of Michigan's EECS 486 class.
 
